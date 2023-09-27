@@ -11,7 +11,7 @@ I created a webpage that will later down the line be used to store all progress 
 
 ##Installation
 
-N/A
+https://github.com/B-R-Ls/Challenge-2-About-Me
 
 ##Usage
 
